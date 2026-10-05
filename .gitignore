@@ -1,0 +1,18 @@
+# Environment files & secrets
+.env
+*.env
+agent_config.yaml
+
+# Databases
+*.db
+
+# Python bytecode & environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/

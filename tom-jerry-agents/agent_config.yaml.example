@@ -1,0 +1,9 @@
+# Template agent credentials for Band.ai platform.
+# Copy to agent_config.yaml or supply via .env
+tom_agent:
+  agent_id: "<YOUR_TOM_AGENT_ID>"
+  api_key: "<YOUR_TOM_API_KEY>"
+
+jerry_agent:
+  agent_id: "<YOUR_JERRY_AGENT_ID>"
+  api_key: "<YOUR_JERRY_API_KEY>"
